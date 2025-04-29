@@ -6,3 +6,5 @@ nota_03 = int(input("Digite a terceira nota"))
 nota_04 = int(input("Digite a quarta nota"))
 
 soma = nota_01 + nota_02 + nota_03 + nota_04
+
+print (soma)
